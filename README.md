@@ -1,2 +1,0 @@
-# kalogridis-test
-Kalogridis Test
