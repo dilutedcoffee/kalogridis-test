@@ -10,7 +10,7 @@
 <channel>
 	<title>mlotierzo | Kalogridis International</title>
 	<atom:link href="http://localhost/kalogridis/author/mlotierzo/feed/" rel="self" type="application/rss+xml" />
-	<link>https://</link>
+	<link></link>
 	<description>Creating the World’s Premium Luxury Environments</description>
 	<lastBuildDate>Fri, 03 Sep 2021 19:07:36 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>https:///wp-content/uploads/2021/09/cropped-Favicon-32x32.png</url>
+	<url>/wp-content/uploads/2021/09/cropped-Favicon-32x32.png</url>
 	<title>mlotierzo | Kalogridis International</title>
-	<link>https://</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https:///2021/09/03/hello-world/</link>
-					<comments>https:///2021/09/03/hello-world/#comments</comments>
+		<link>/2021/09/03/hello-world/</link>
+					<comments>/2021/09/03/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[mlotierzo]]></dc:creator>
 		<pubDate>Fri, 03 Sep 2021 19:07:36 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https:///?p=1</guid>
+		<guid isPermaLink="false">/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https:///2021/09/03/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/2021/09/03/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
