@@ -11,11 +11,11 @@
 	<atom:link href="http://localhost/kalogridis/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Creating the World’s Premium Luxury Environments</description>
-	<lastBuildDate>Wed, 13 Oct 2021 21:59:37 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 16 Nov 2021 01:32:30 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 </channel>
 </rss>
